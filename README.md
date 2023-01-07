@@ -11,7 +11,7 @@
 * How to run:
   
   * Step-1 : Clone the repository
-  * Step-2 : Run the requirements.txt to download necessary dependencies.
+  * Step-2 : Run the [requirements.txt](/requirements.txt) to download necessary dependencies.
   * Step-3 : Start the web server on localhost('127.0.0.1') by running [main.py](/main.py) (Port=5000)
   * Step-4 : Send POST requests with-> 
     ```
